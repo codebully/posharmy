@@ -1,0 +1,96 @@
+body {
+  margin-left: 15px;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  background: url(../assets/background.jpg) no-repeat #001F1F;
+  background-size: cover;
+}
+
+.blackbox {
+  background: rgba(0, 0, 0, 0.5);
+  display: block;
+  padding-bottom: 10px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.link {
+  display: inline;
+}
+
+.members {
+  display: block;
+}
+
+.poshlogo {
+  width: 300px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.site-footer {
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.twitter {
+  width: 30px;
+  height: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar {
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.important {
+  font-weight: bold;
+  font-style: italic;
+}
+
+#footertext {
+  font-size: .5em;
+}
+
+.biglink {
+  border: 2px solid;
+  font-size: 1.5em;
+  height: 100px;
+  width: 250px;
+  text-align: center;
+  font-weight: bolder;
+  margin: auto;
+  line-height: 100px;
+}
+
+.biglink:hover {
+  font-weight: normal;
+  color: #B22222;
+}
+
+.post-title {
+  text-align: center;
+}
+
+.musicbox {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.site-footer {
+  text-align: center;
+}
+
+ul {
+  list-style: none
+}

@@ -1,0 +1,11 @@
+# Site settings
+title: Posh Army
+email: me@nikitahasis.com
+description: Built by Nikita Hasis on top of Jakyll.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.posharmy.com" # the base hostname & protocol for your site
+twitter_username: RealPoshArmy
+github_username:  codebully
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,18 @@
+<header class="site-header">
+    <div class="navbar">
+
+      <a class="site-title" href="{{ site.baseurl }}/"><img src="/assets/logo.png" class="poshlogo"></a>
+
+      <div class="link">
+        <a href="https://www.facebook.com/events/360987380738416/">[RSVP]</a>
+
+        {% for page in site.pages %}
+          {% if page.title %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">[{{ page.title | upcase }}]</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+      <a href="http://imgur.com/a/DMjJ7" target="_blank">[PICS]</a>
+      <a href="http://nikitahasis.tumblr.com/post/54916784602/nicky-english-dot-com-past-and-future-shows">[GIGS]</a>
+    </div>
+</header>
