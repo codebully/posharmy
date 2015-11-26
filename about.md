@@ -15,7 +15,9 @@ Posh Army are:
 
 + Nikita - guitar, vocals.
 + Maxxy - vocals.
-+ Robby - bass, vocals.
++ Nate - guitar, vocals.
 + Ham Trentway - good times, drums.
++ Nils - bass.
++ Robby - bass, vocals.
 
 It's gonna be cool shit.
