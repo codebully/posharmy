@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Posh Army (2006-2009) were a band in Cleveland.
 
-Performing everywhere between New York City, Chicago including rumoured secret gigs at the **Teatro alla Scala**, the quartet went on to release three demo tapes and [one full length](http://notbob.bandcamp.com/album/top-four-finish) during a ground shaking nightclub gig that united generations. Tragedy struck days after the release as frontman Max Fowler mysteriously disappeared in the Rocky Mountains.
+Performing everywhere between New York City, Chicago and rumoured secret gigs at the **Teatro alla Scala**, the quartet went on to release three demo tapes and [one full length](http://notbob.bandcamp.com/album/top-four-finish) during a ground shaking nightclub gig that united generations. Tragedy, however, was looming just around the corner, striking just days after the release of Top Four Finish when frontman Max Fowler mysteriously disappeared in the Rocky Mountains.
 
 The remaining members went on to form [Sixes and Sevens](http://notbob.bandcamp.com/album/meow-ep) and [Nicky English](https://vimeo.com/20271440) with various Cleveland musicians.
 
