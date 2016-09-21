@@ -2,8 +2,9 @@ body {
   margin-left: 15px;
   font-family: 'Raleway', sans-serif;
   color: white;
-  background: url(../assets/background.jpg) no-repeat #001F1F;
+  background: url(../assets/background.jpg) no-repeat fixed #001F1F;
   background-size: cover;
+  font-size: 85%;
 }
 
 .blackbox {
@@ -93,4 +94,24 @@ a {
 
 ul {
   list-style: none
+}
+
+.date {
+  color: yellow;
+}
+
+.shows {
+  font-size: 75%;
+}
+
+#contest {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 75%;
+  height: 75%;
+}
+
+.site-footer {
+  margin-top: 15px;
 }
